@@ -1,7 +1,7 @@
 
 import './App.css'
 
-const cardData = [
+{/*const cardData = [
   {
     title: 'FREE',
     price: '$0/month',
@@ -42,7 +42,7 @@ const cardData = [
       'Monthly Status Report'
     ]
   }
-];
+]; */}
 
   const cardpricing = () => {
     return (
