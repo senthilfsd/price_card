@@ -1,0 +1,75 @@
+.maincontainer {
+    height: 730px;
+    width: 1300px;
+    background-color: rgb(41, 57, 234);
+    border-style: double; 
+    display: flex;
+    margin-left: 150px;
+}
+
+.free{
+    background-color: white;
+    margin: 20px;
+    height: 690px;
+    width: 450px;
+    border-radius: 10px;
+   
+}
+
+.plus{
+    background-color: white;
+    margin: 20px;
+    height: 690px;
+    width: 450px;
+    border-radius: 10px;
+   
+}
+
+.gold{
+    background-color: white;
+    margin: 20px;
+    height: 690px;
+    width: 450px;
+    border-radius: 10px;
+}
+
+.form{
+    text-align: center;
+   
+}
+
+h1{
+    font-size: medium;
+    text-align: center;
+    margin-top: 50px;
+    opacity: 0.5;
+   
+}
+h3{
+    font-size: xxx-large;
+    text-align: center;
+   
+}
+
+button{
+    
+    font-size: 15px;
+    background-color: rgb(5, 132, 244);
+    display: flex;
+    margin: 80px;
+    border-radius: 10px;
+    width: 200px;
+    height: 40px;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+    padding-left: 65px;
+    padding-top: 10px;
+    
+}
+
+.feature{
+    margin: 50px;
+   
+}
+
